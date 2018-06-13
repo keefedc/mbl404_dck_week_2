@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#544F3D</color>
+    <color name="colorPrimaryDark">#8A8267</color>
+    <color name="colorAccent">#8A8267</color>
+    <color name="textbackground">#B6AE91</color>
+    <color name="charbackground">#202020</color>
+    <color name="Grullo">#A08D83</color>
+    <color name="DarkSilver">#D3D2CD</color>
 </resources>

@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">mbl404_dck_week_2</string>
+    <string name="app_name">Cardio Tracker</string>
+    <string name="add_activity">Add Activity</string>
+
+    <string-array name="activities">
+        <item>Select an activity:</item>
+        <item>Walk</item>
+        <item>Run</item>
+        <item>Bike</item>
+        <item>Swim</item>
+    </string-array>
 </resources>
